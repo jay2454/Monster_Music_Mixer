@@ -13,8 +13,8 @@ With the first checkpoint, we have included several of our base assets for conti
 Just an editor and Git!
 
 ## Author 
-1. Jay Nayee
-2 .John Wood
+  1. Jay Nayee
+  2. John Wood
 
 ## License
 This project is licensed under the MLT license.
