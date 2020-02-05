@@ -1,4 +1,4 @@
-# Monster_Music_Mixer
+# Monster Music Mixer
 
 On this website our monster icons seen on the bottom bar can be dragged into the main box to activate the various sounds and music. With four regions, you can play four different overlapping tracks to make your own song. If you would like to make a different sounding song, you may drag the monster icons back into the bar and rearrange them. 
 
